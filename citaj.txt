@@ -1,0 +1,2 @@
+Prebacen folder Models iz proslog 24 predavanja radi ispravke
+images.php fajla i koristenja ternary
